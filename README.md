@@ -36,36 +36,6 @@ QA Automation ──────────────────────
   Azure DevOps         + ETL · ELT · Data Pipelines         Cloud (GCP · Azure)
 ```
 
----
-
-## 🚀 Featured Projects
-
-### 🔷 Data Engineering & Quality
-| Project | Stack | Description |
-|---|---|---|
-| [databricks-etl-quality-framework](https://github.com/Gri-byte/databricks-etl-quality-framework) | PySpark · Delta Lake · dbt · GitHub Actions | Production-grade ETL quality framework using Medallion Architecture on NYC Yellow Taxi data. 34 unit tests. |
-| [bigquery-data-quality-monitoring](https://github.com/Gri-byte/bigquery-data-quality-monitoring) | BigQuery SQL · dbt · Python · GCP | Automated data quality monitoring on Chicago Crime public dataset. 31 tests, CI/CD. |
-| [snowflake-dw-testing-framework](https://github.com/Gri-byte/snowflake-dw-testing-framework) | Snowflake · Streams · Tasks · dbt | DW testing framework with Stored Procedures and schema tests. 40 unit tests. |
-| [oracle-etl-validation-framework](https://github.com/Gri-byte/oracle-etl-validation-framework) | Python · Oracle SQL · pytest | 47 ETL validation tests: integrity, completeness, accuracy, and performance checks. |
-
-### 🔷 Data Science & Analysis
-| Project | Stack | Description |
-|---|---|---|
-| [superstore-sales-analysis](https://github.com/Gri-byte/superstore-sales-analysis) | Python · Pandas · Matplotlib · Seaborn | BCG-style KPI analysis with Pareto, BCG matrix, and discount impact insights. 24 unit tests, CI/CD. |
-| [dengue-eda-argentina](https://github.com/Gri-byte/dengue-eda-argentina) | Python · Streamlit · Scikit-learn | EDA + predictive ML model on Argentine dengue fever data (2018–2025). Deployed Streamlit dashboard. |
-| [iris-classification-ml](https://github.com/Gri-byte/iris-classification-ml) | Python · Scikit-learn · Pipelines | End-to-end ML classification with sklearn Pipeline, GridSearchCV, Quality Gate pattern, and CI/CD. |
-| [spark-salary-analysis](https://github.com/Gri-byte/spark-salary-analysis) | PySpark · Python | Distributed salary analysis pipeline using PySpark on real-world salary datasets. |
-
-### 🔷 QA Automation (Professional)
-| Project | Stack | Description |
-|---|---|---|
-| [playwright-ecommerce-e2e](https://github.com/Gri-byte/playwright-ecommerce-e2e) | Playwright · TypeScript · GitHub Actions | Enterprise e-commerce E2E suite with POM architecture, accessibility audits, CI/CD. |
-| [playwright-api-testing-framework](https://github.com/Gri-byte/playwright-api-testing-framework) | Playwright · TypeScript · Zod | REST API framework with schema validation and pipeline integration. |
-| [playwright-hybrid-testing-suite](https://github.com/Gri-byte/playwright-hybrid-testing-suite) | Playwright · TypeScript · axe-core | Hybrid UI/API/accessibility suite with WCAG audits and custom fixtures. |
-| [bdd-data-quality-tests](https://github.com/Gri-byte/bdd-data-quality-tests) | Python · Behave · Gherkin | BDD data quality framework for pipeline validation using enterprise-grade patterns. |
-| [jmeter-api-load-tests](https://github.com/Gri-byte/jmeter-api-load-tests) | Apache JMeter | Load, stress, and spike testing with HTML reporting. |
-
----
 
 ## 🛠️ Tech Stack
 
