@@ -98,5 +98,5 @@ I bring **3+ years of QA discipline** into the data world. While many data engin
 ---
 
 <p align="center">
-  <i>"Quality isn't a phase at the end — it's built in from the first commit."</i>
+  <i >"Quality isn't a phase at the end — it's built in from the first commit." </i>
 </p>
