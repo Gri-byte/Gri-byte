@@ -70,7 +70,6 @@ I bring **3+ years of QA discipline** into the data world. While many data engin
 | 🛒 [retail-sales-pipeline](https://github.com/Gri-byte/retail-sales-pipeline) | ETL pipeline with 5 quality gates, anomaly detection, 98% test coverage & Streamlit dashboard | Python · Pandas · pytest |
 | 🛍️ [ecommerce-data-quality](https://github.com/Gri-byte/ecommerce-data-quality) | Data quality framework validating catalog & orders before DW load | Python · Pandas |
 | 🏦 [banking-e2e-playwright](https://github.com/Gri-byte/banking-e2e-playwright) | E2E + API test suite with Page Object Model & smoke/regression tagging | Playwright · TypeScript |
-| 👥 [hr-api-automation](https://github.com/Gri-byte/hr-api-automation) | API automation with contract testing & full CRUD lifecycle | Playwright · TypeScript |
 
 ---
 
